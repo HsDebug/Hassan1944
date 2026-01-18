@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassan
+- 👋 Hi, I’m Hs
 - 👀 I’m interested in solution design and problem-solving
 - 💞️ I’m looking to collaborate on JavaScript, Python, Salesforce, and open-source projects
 - 📫 How to reach me: Shaik.hassan.sfdc@gmail.com
