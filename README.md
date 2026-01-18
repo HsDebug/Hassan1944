@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Hassan1944
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hassan
+- 👀 I’m interested in solution design and problem-solving
+- 💞️ I’m looking to collaborate on JavaScript, Python, Salesforce, and open-source projects
+- 📫 How to reach me: Shaik.hassan.sfdc@gmail.com
 
-<!---
-Hassan1944/Hassan1944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Curating solutions and understanding code.  
+Currently working with SFDC, JavaScript, and Python, and open to contributing to other open-source projects.
